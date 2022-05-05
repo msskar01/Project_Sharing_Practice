@@ -1,0 +1,11 @@
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.exe
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.deps.json
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.json
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.dev.json
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.dll
+C:\Users\phoen\source\repos\AI-Dev\TSP\bin\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\phoen\source\repos\AI-Dev\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfoInputs.cache
+C:\Users\phoen\source\repos\AI-Dev\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfo.cs
+C:\Users\phoen\source\repos\AI-Dev\TSP\obj\Debug\netcoreapp3.1\TSP.dll
+C:\Users\phoen\source\repos\AI-Dev\TSP\obj\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\phoen\source\repos\AI-Dev\TSP\obj\Debug\netcoreapp3.1\TSP.csprojAssemblyReference.cache

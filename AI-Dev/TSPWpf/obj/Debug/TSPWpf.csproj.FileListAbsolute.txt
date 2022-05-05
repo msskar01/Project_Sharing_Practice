@@ -1,0 +1,14 @@
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\bin\Debug\TSPWpf.exe.config
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\bin\Debug\TSPWpf.exe
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\bin\Debug\TSPWpf.pdb
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\MainWindow.g.cs
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\App.g.cs
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf_MarkupCompile.cache
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf_MarkupCompile.lref
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\MainWindow.baml
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.g.resources
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.Properties.Resources.resources
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.exe
+C:\Users\phoen\source\repos\AI-Dev\TSPWpf\obj\Debug\TSPWpf.pdb

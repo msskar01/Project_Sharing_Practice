@@ -1,0 +1,12 @@
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.exe
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.deps.json
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.runtimeconfig.json
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.runtimeconfig.dev.json
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.dll
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\SCS.pdb
+C:\Users\phoen\source\repos\AI-Dev\SCS\obj\Debug\netcoreapp3.1\SCS.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\AI-Dev\SCS\obj\Debug\netcoreapp3.1\SCS.AssemblyInfoInputs.cache
+C:\Users\phoen\source\repos\AI-Dev\SCS\obj\Debug\netcoreapp3.1\SCS.AssemblyInfo.cs
+C:\Users\phoen\source\repos\AI-Dev\SCS\obj\Debug\netcoreapp3.1\SCS.dll
+C:\Users\phoen\source\repos\AI-Dev\SCS\obj\Debug\netcoreapp3.1\SCS.pdb
+C:\Users\phoen\source\repos\AI-Dev\SCS\bin\Debug\netcoreapp3.1\Program.cs
