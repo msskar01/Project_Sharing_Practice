@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  L1_L2_Compair.cpp
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(9): error C2955: 'std::list': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\list(790): note: see declaration of 'std::list'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(10): error C2079: 'intersect' uses undefined class 'std::list'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(11): error C2133: 'result': unknown size
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(11): error C2512: 'std::list': no appropriate default constructor available
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\list(790): note: see declaration of 'std::list'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C2065: 'position': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C2146: syntax error: missing ';' before identifier 'L1pos'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C3861: 'first': identifier not found
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(12): error C2065: 'resultPos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(14): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(14): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(16): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(16): error C2227: left of '->element' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(16): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(16): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(18): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(18): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(18): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(20): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(20): error C2227: left of '->element' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(20): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(20): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(22): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(22): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(22): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(26): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(26): error C2227: left of '->element' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(26): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(26): error C2065: 'resultPos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(26): error C3861: 'insert': identifier not found
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(27): error C2065: 'L1pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(27): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(27): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(28): error C2065: 'L2pos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(28): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(28): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(29): error C2065: 'resultPos': undeclared identifier
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(29): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(29): note: type is 'unknown-type'
+c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(32): error C2440: 'return': cannot convert from 'std::list' to 'std::list'
+  c:\users\misha skarlatov\documents\cecs 305\l1_l2_compair\l1_l2_compair\l1_l2_compair.cpp(32): note: Cannot copy construct class 'std::list' due to ambiguous copy constructors or no available copy constructor

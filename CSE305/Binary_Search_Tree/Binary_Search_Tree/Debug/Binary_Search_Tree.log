@@ -1,0 +1,3 @@
+﻿  Binary_Search_Tree.cpp
+c:\users\misha skarlatov\documents\cecs 305\binary_search_tree\binary_search_tree\binary_search_tree.cpp(51): warning C4715: 'BinarySearchTree::insert': not all control paths return a value
+  Binary_Search_Tree.vcxproj -> C:\Users\Misha Skarlatov\Documents\CECS 305\Binary_Search_Tree\Debug\Binary_Search_Tree.exe

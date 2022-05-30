@@ -1,0 +1,15 @@
+﻿  Heap.cpp
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(163): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(198): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(226): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(228): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(245): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(251): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(261): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(266): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\misha skarlatov\documents\cecs 305\heap\heap\heap.cpp(269): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Heap.vcxproj -> C:\Users\Misha Skarlatov\Documents\CECS 305\Heap\Debug\Heap.exe
