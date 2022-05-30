@@ -1,0 +1,8 @@
+﻿  SpellChecker.cpp
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\spellchecker\spellchecker\spellchecker.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  SpellChecker.vcxproj -> C:\Users\Misha Skarlatov\Documents\CECS 305\SpellChecker\Debug\SpellChecker.exe
