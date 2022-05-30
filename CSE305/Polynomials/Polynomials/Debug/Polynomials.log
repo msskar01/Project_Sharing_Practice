@@ -1,0 +1,10 @@
+﻿  Polynomials.cpp
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\polynomials\polynomials\polynomials.cpp(110): warning C4018: '<': signed/unsigned mismatch
+  Polynomials.vcxproj -> C:\Users\Misha Skarlatov\Documents\CECS 305\Polynomials\Debug\Polynomials.exe

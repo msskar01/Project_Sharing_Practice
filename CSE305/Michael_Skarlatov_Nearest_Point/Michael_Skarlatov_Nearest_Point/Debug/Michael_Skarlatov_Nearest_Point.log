@@ -1,0 +1,5 @@
+﻿  Michael_Skarlatov_Nearest_Point.cpp
+c:\users\misha skarlatov\documents\cecs 305\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\misha skarlatov\documents\cecs 305\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point\michael_skarlatov_nearest_point.cpp(80): warning C4715: 'Point::CheckVector': not all control paths return a value
+  Michael_Skarlatov_Nearest_Point.vcxproj -> C:\Users\Misha Skarlatov\Documents\CECS 305\Michael_Skarlatov_Nearest_Point\Debug\Michael_Skarlatov_Nearest_Point.exe
