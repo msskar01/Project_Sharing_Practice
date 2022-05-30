@@ -1,0 +1,73 @@
+void write_stack(list l)
+{
+	stack s;
+	for(; l->head != nullptr; l->head = l->head->next)
+	{	
+		s.push(l.head);
+	}
+}
+
+class stack
+{
+	struct node
+	{
+		int val;
+		node* next;
+	};
+
+	private:
+	node * t;
+
+	public:
+	Stack():t{nullptr}{}
+
+	void push(int x)
+	{
+		node *n = new node(x, t);
+		t=n;	
+	}
+	void pop()
+	{
+		if(t==nullptr) return;
+		t = t->next;	
+	}
+	int top()
+	{
+		if(t==nullptr) throw exception("Empty stack");
+		return t->val;	
+	}
+	bool empty()
+	{
+		return head->nullptr;
+	}
+}
+
+
+
+
+
+
+void inofder(node * t)
+{
+	if(t==nullptr) return;
+
+	inorder(t->left);
+	print(t->val);
+	inorder(t->right);
+}
+
+
+
+void inorder(node* root)
+{
+	queue<node *> s;
+	s.pop();
+	while(!q.isempty())
+	{
+		node* n = s.top();
+		if(n->left!=nullprt) q.push(n->left);
+		if(n->right!=nullptr) q.push(n->right);
+		q.pop();
+		print(n->value);
+	}
+}
